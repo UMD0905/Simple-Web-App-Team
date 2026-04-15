@@ -1,0 +1,6 @@
+Database connection settings:
+Host: localhost
+Port: 3306
+Database Name: simple_web_app
+Username: root
+Password: password
